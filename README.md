@@ -1,4 +1,4 @@
-# 🧠 **DEMDI** - Depression and Mental Illness Detection and Insights Using Machine Learning
+# 🧠 Student Depression Analysis,Detection and Insights Using Machine Learning
 
 This project applies machine learning techniques to predict **depression** and analyze its relationships with various factors, including academic pressure, suicidal thoughts, family mental illness history, and more.
 
@@ -113,13 +113,3 @@ This project applies machine learning techniques to predict **depression** and a
 - **Deep Learning**: Explore **MLP** or **LSTM** (if time-series data becomes available).
 - **Model Interpretability**: Use **SHAP** or **LIME** for model explainability.
 - **Web App**: Deploy the model using **Flask** or **Streamlit** to make it more accessible.
-
----
-
-## 📌 **Run This Project**
-
-To run this project locally, install the required libraries and execute the main Python script:
-
-```bash
-pip install -r requirements.txt
-python main.py
